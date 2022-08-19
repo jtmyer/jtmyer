@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jtmyer
+- I'm a Data Scientist / ML Engineer with most of my experience being in classical machine learning, neural networks, anomaly detection, NLP, time series and learn-to-rank ml
+- I'm very interested in ML Ops, IoT, blockchain analytics, NLP, and recomender systems

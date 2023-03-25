@@ -10,7 +10,7 @@ I have my **M.S.** in **Business Analytics** from [**The College of William & Ma
 
 
 
-## Things I do 
+## Things I do (buzzwords)
 - NLP 
 - Computer vision    
 - MLOps  

@@ -10,7 +10,7 @@ I have my **M.S.** in **Business Analytics** from [**The College of William & Ma
 
 
 
-## Things I do (buzzwords)
+## Things I Do
 - NLP 
 - Computer vision    
 - MLOps  
@@ -64,5 +64,5 @@ I have my **M.S.** in **Business Analytics** from [**The College of William & Ma
 ## Projects
 All my *real* work is hidden away on an enterprise account, so here's a few examples of what I build. 
 
-## Reach out
+## Reach Out
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobtmyer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10311199/jacob-myer) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobtmyer@gmail.com)

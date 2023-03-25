@@ -1,6 +1,9 @@
 # `Hello World!` I'm Jacob Myer 
 
-I'm a **Data Scientist**, but really more of an **ML Engineer** at [**Elder Research Inc.**](https://www.elderresearch.com)  
+I'm a **Data Scientist**, but really more of an **ML Engineer** at [**Elder Research**](https://www.elderresearch.com)  
+
+
+
 I have my **M.S.** in **Business Analytics** from [**The College of William & Mary**](https://www.wm.edu) 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobtmyer) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10311199/jacob-myer) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jacobtmyer@gmail.com)

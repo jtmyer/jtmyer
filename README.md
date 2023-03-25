@@ -14,7 +14,7 @@ I have my **M.S.** in **Business Analytics** from [**The College of William & Ma
 - 👷🏻‍♂️ Data infrastructure design  
 - 🕵🏻 Anomaly detection  
 - ⏱️ Real-time analytics  
-- So much more...  
+- 🌎 And a lot more...
 
 ## Tools and Tech
 

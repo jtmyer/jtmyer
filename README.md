@@ -7,13 +7,13 @@ I'm a **Data Scientist**, but really more of an **ML Engineer** at [**Elder Rese
 I have my **M.S.** in **Business Analytics** from [**The College of William & Mary**](https://www.wm.edu) 
 
 ## Things I Do
-- NLP 
-- Computer vision    
-- MLOps  
-- TinyML  
-- Data infrastructure design  
-- Anomaly detection  
-- Real-time analytics  
+- 💬 NLP 
+- 📸 Computer vision    
+- 🚀 MLOps  
+- 🔬 TinyML  
+- 👷🏻‍♂️ Data infrastructure design  
+- 🕵🏻 Anomaly detection  
+- ⏱️ Real-time analytics  
 - So much more...  
 
 ## Tools and Tech
